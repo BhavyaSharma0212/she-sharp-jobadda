@@ -5,7 +5,7 @@ Submission for She-sharp hackathon 2023
 <br>
 Front-end project using the sourcestack API.
 <br>
-You can access the web app JobsAdda demo video through the link :"(https://www.kapwing.com/videos/64849bd5d8f1920011a0537d)".
+You can access the web app JobsAdda demo video through the link: (https://www.kapwing.com/videos/64849bd5d8f1920011a0537d).
 
 ## Team Members
 - Ashlesha Nandankar [https://github.com/nansh8]
@@ -53,6 +53,11 @@ Harnessing the power of the SourceStack API, JobAdda offers an extensive databas
 Find your perfect match effortlessly by utilizing JobAdda's search filters. The intuitive interface empowers you to discover the most relevant and personalized job opportunities that align with your skills and preferences.
 With JobAdda, embarking on a new career path has never been easier. Unlock a world of opportunities, explore diverse industries, and find the job that ignites your passion. Whether you're a recent graduate, seasoned professional, or someone looking for a career change, JobAdda empowers you to take control of your professional journey.
 Experience the future of job searching with JobsAdda - where innovation meets opportunity!
+
+# Project Snippets
+![image](https://github.com/BhavyaSharma0212/she-sharp-jobadda/assets/78587129/19bb8936-0460-41bc-8759-1076c5383e6c)
+![image](https://github.com/BhavyaSharma0212/she-sharp-jobadda/assets/78587129/941c8b13-9b05-4246-b1b1-fec3b23a1124)
+
 
 ## How to run JobsAdda locally?
 
