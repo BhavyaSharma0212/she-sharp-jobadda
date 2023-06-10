@@ -55,7 +55,7 @@ With JobAdda, embarking on a new career path has never been easier. Unlock a wor
 Experience the future of job searching with JobsAdda - where innovation meets opportunity!
 
 # Project Snippets
-**Welcom Snippet -->**
+**Welcome Snippet -->**
 ![image](https://github.com/BhavyaSharma0212/she-sharp-jobadda/assets/78587129/19bb8936-0460-41bc-8759-1076c5383e6c)
 
 **Job Portal Snippet -->**
